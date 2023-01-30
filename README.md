@@ -10,10 +10,6 @@ The 4 face buttons all start at C3. You can modify their notes by holding the R 
 
 [Contribute](https://colinburke.com/contribute), so I can dedicate more time to projects like this.
 
-# About the Author
-
-https://linkedin.com/in/colingburke
-
 ## Youtube Preview
 [![Controllerchestra Demo](http://img.youtube.com/vi/093zJsSzQ4I/0.jpg)](http://www.youtube.com/watch?v=093zJsSzQ4I "Controllerchestra Demo")
 
