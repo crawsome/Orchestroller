@@ -1,0 +1,43 @@
+v.01 Alpha: First Build. 
+4 notes, 
+4 mod buttons in binary to make 16 possible notes.
+16 Wav files per instrument
+Select Key changes intruments
+14 instruments: 
+"Synth Lead",
+"Synth Lead 2",
+"Acoustic Guitar",
+"Distorted Guitar",
+"Overdrive Guitar",
+"Slap Bass",
+"Synth Bass",
+"Synth Strings",
+"Synth Brass",
+"Saw Wave",
+"Organ",
+"Oboe",
+"Vibes",
+"Orchestra Hit"
+
+v.08 Alpha 7 big changes: 
+* Change 1: 8 Assignable buttons
+* Change 2: Bass notes currently assignable via both joysticks + pressing a button
+* Change 3: Change Root with L3
+* Change 4: Change key with R3
+* Change 5: Change octave with d-pad up/down
+* Change 6: Release quiets note
+* Change 7: 73 Notes now instead of 16 per instrument. (File size is a problem, since GMS2 re-encodes to high encoding)
+* Keys: 
+"Major",
+"Natural minor",
+"Harmonic minor",
+"Melodic minor",
+"Dorian mode",
+"Phrygian mode",
+"Lydian mode",
+"Mixolydian mode",
+"Locrian mode",
+"Ahava raba mode",
+"Minor pentatonic",
+"Pentatonic",
+"Blues"
