@@ -3,10 +3,16 @@ Use an Xbox controller to play classic SNES samples
 
 New features coming soon! Check the [changelog](https://github.com/crawsome/Controllerchestra/blob/main/CHANGELOG) for progress!
 
-## How to use: 
-The 4 face buttons all start at C3. You can modify their notes by holding the R buttons to increase their tone. Let go of the R button to save the note as-is.
+Since file is >25MB, it's [now Hosted on Google Drive](https://drive.google.com/drive/folders/1ObdEMC8VGwFjCccph-_PhdBf2WBs7h_a)
 
-# If you liked it:
+## How to use: 
+* 8 Assignable buttons that are pre-populated to keys. Change key with R3
+* Change Root with L3
+* Bass notes currently assignable via both joysticks + pressing a button (Very esoteric for now)
+* Change 5: Change octave with d-pad up/down
+There's now 73 Notes instead of 16 per instrument. (File size is a problem, since GMS2 re-encodes to high encoding)
+
+## If you liked it:
 
 [Contribute](https://colinburke.com/contribute), so I can dedicate more time to projects like this.
 
