@@ -5,7 +5,7 @@ New features coming soon! Check the [changelog](https://github.com/crawsome/Cont
 
 Since file is >25MB, it's [now Hosted on Google Drive](https://drive.google.com/drive/folders/1ObdEMC8VGwFjCccph-_PhdBf2WBs7h_a)
 
-## x.08 Alpha How to use: 
+## v.08 Alpha How to use: 
 * 8 Assignable buttons that are pre-populated to keys. Change key with R3
 * Change Root with L3
 * Bass notes currently assignable via both joysticks + pressing a button (Very esoteric for now)
