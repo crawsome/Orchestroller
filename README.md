@@ -1,4 +1,4 @@
-# Controllerchestra
+# Orchestroller
 Use an Xbox controller to play classic SNES samples
 
 Windows only for now. HTML5, Mac, and Mobile coming soon. 
