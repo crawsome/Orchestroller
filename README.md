@@ -1,6 +1,8 @@
 # Controllerchestra
 Use an Xbox controller to play classic SNES samples
 
+Windows only for now. HTML5, Mac, and Mobile coming soon. 
+
 New features coming soon! Check the [changelog](https://github.com/crawsome/Controllerchestra/blob/main/CHANGELOG) for progress!
 
 Since file is >25MB, it's [now Hosted on Google Drive](https://drive.google.com/drive/folders/1ObdEMC8VGwFjCccph-_PhdBf2WBs7h_a)
