@@ -2,7 +2,9 @@
 Use an Xbox controller to play classic SNES samples. Written in Gamemaker Studio 2 in <48 hours! Windows only for now. 
 
 ## Download
-Download [here!](https://drive.google.com/drive/folders/1ObdEMC8VGwFjCccph-_PhdBf2WBs7h_a) (Link to Google Drive)
+* Download [here!](https://drive.google.com/drive/folders/1ObdEMC8VGwFjCccph-_PhdBf2WBs7h_a) (Link to Google Drive)
+* [Itch Link](https://crawsome.itch.io/orchestroller)
+* [Video Demo](https://www.youtube.com/watch?v=YR6kJiHBot4)
 
 ## v.08 Alpha How to use: 
 * 8 Assignable buttons that are pre-populated to keys. Change key with R3
