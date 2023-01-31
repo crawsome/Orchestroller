@@ -15,7 +15,7 @@ There's now 73 Notes instead of 16 per instrument. (File size is a problem, sinc
 ## If you liked it:
 
 [Contribute](https://colinburke.com/contribute), so I can dedicate more time to projects like this.
-\
+
 ## Youtube Preview
 [![Controllerchestra Demo](http://img.youtube.com/vi/YR6kJiHBot4/0.jpg)](http://www.youtube.com/watch?v=YR6kJiHBot4 "Controllerchestra Demo")
 
