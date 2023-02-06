@@ -1,23 +1,27 @@
-v.01 Alpha: First Build. 
-4 notes, 
-4 mod buttons in binary to make 16 possible notes.
-16 Wav files per instrument
-Select Key changes intruments
-14 instruments: 
-"Synth Lead",
-"Synth Lead 2",
-"Acoustic Guitar",
-"Distorted Guitar",
-"Overdrive Guitar",
-"Slap Bass",
-"Synth Bass",
-"Synth Strings",
-"Synth Brass",
-"Saw Wave",
-"Organ",
-"Oboe",
-"Vibes",
-"Orchestra Hit"
+Orchestroller v0.1 Beta 
+
+    Change Effects with Dpad Right:
+        tremolo,
+        distortion,
+        reverb,
+        delay,
+        lpf,
+        hpf
+    Disable/enable effects with Dpad left
+    White background on text for easier reading for notes
+    Moved key/scale options to right analog stick
+    Started Pitch change features on left analog verical axis
+    Five calming, chill backgrounds (more visual effects coming soon)
+    Volume Slider. Click to change. 
+
+Bugs fixed
+
+Note sticks on key change
+
+Outstanding Bugs
+
+Some boundary issues at the highest octave when changing
+scales and keys at the same time
 
 v.08 Alpha 7 big changes: 
 * Change 1: 8 Assignable buttons
@@ -41,3 +45,26 @@ v.08 Alpha 7 big changes:
 "Minor pentatonic",
 "Pentatonic",
 "Blues"
+
+
+v.01 Alpha: First Build. 
+4 notes, 
+4 mod buttons in binary to make 16 possible notes.
+16 Wav files per instrument
+Select Key changes intruments
+14 instruments: 
+"Synth Lead",
+"Synth Lead 2",
+"Acoustic Guitar",
+"Distorted Guitar",
+"Overdrive Guitar",
+"Slap Bass",
+"Synth Bass",
+"Synth Strings",
+"Synth Brass",
+"Saw Wave",
+"Organ",
+"Oboe",
+"Vibes",
+"Orchestra Hit"
+
